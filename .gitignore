@@ -1,0 +1,11 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Build directories
+build/
+
+# macOS files
+.DS_Store
